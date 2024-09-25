@@ -1,5 +1,5 @@
 # pig-game
-[Play here]([https://tazsq.github.io/pig-game/](https://game-tazim.netlify.app/))
+[Play here]([https://tazsq.github.io/pig-game/])
 
 
 player with 100 or more than 100 points win!!
